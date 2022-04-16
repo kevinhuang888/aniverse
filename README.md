@@ -14,3 +14,8 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 # aniverse
+
+
+Here is the link to the web app!
+
+https://replit.com/@xcwp/aniverse
